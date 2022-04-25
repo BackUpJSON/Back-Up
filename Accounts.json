@@ -1,0 +1,110 @@
+{
+  "Accounts": {
+    "Anson - W": {
+      "Email": "ansonw18@nycstudents.net",
+      "Password": "Ak6h33jk",
+      "ID": 1
+    },
+    "Anthony - H": {
+      "Email": "anthonyh@nycstudents.net",
+      "Password": null,
+      "ID": 2
+    },
+    "Anthony - M": {
+      "Email": "anthonym1041@nycstudents.net",
+      "Password": null,
+      "ID": 3
+    },
+    "Antony - L": {
+      "Email": "antonyl12@nycstudents.net",
+      "Password": "Ak6h33jk",
+      "ID": 4
+    },
+    "Arianny - O": {
+      "Email": "ariannyo@nycstudents.net",
+      "Password": null,
+      "ID": 5
+    },
+    "Erik - A": {
+      "Email": "erika59@nycstudents.net",
+      "Password": "Ak6h33jk",
+      "ID": 6
+    },
+    "Erikberto - C": {
+      "Email": "erikbertoc@nycstudents.net",
+      "Password": "Ak6h33jk",
+      "ID": 7
+    },
+    "Jefferson - H": {
+      "Email": "jeffersonh15@nycstudents.net",
+      "Password": null,
+      "ID": 8
+    },
+    "Landon - A": {
+      "Email": "landona@nycstudents.net",
+      "Password": null,
+      "ID": 9
+    },
+    "Linxuan - C": {
+      "Email": "linxuanc@nycstudents.net",
+      "Password": "Ak6h33jk",
+      "ID": 10
+    },
+    "Logan - T": {
+      "Email": "logant@nycstudents.net",
+      "Password": null,
+      "ID": 11
+    },
+    "Mykhaylo - G": {
+      "Email": "mykhaylog@nycstudents.net",
+      "Password": "Ak6h33jk",
+      "ID": 12
+    },
+    "Rongjin - D": {
+      "Email": "rongjind@nycstudents.net",
+      "Password": null,
+      "ID": 13
+    },
+    "Steven - M": {
+      "Email": "stevenm@nycstudents.net",
+      "Password": null,
+      "ID": 14
+    },
+    "Wanda - P": {
+      "Email": "wandap13@nycstudents.net",
+      "Password": null,
+      "ID": 15
+    },
+    "Yahir - S": {
+      "Email": "yahirs25@nycstudents.net",
+      "Password": "Ak6h33jk",
+      "ID": 16
+    },
+    "Yesly - C": {
+      "Email": "yeslyc@nycstudents.net",
+      "Password": "Ak6h33jk",
+      "ID": 17
+    },
+    "xinlei - C": {
+      "Email": "xinleic3@nycstudents.net",
+      "Password": "Ak6h33jk",
+      "ID": 18,
+      "Information": "Girl ==> Boy"
+    },
+    "Jinairy - C": {
+      "Email": "jinairyc2789@nycstudents.net",
+      "Password": "Ak6h33jk",
+      "ID": 19
+    },
+    "Sofia - L": {
+      "Email": "sofial10@nycstudents.net",
+      "Password": null,
+      "ID": 20
+    },
+    "Julian - C": {
+      "Email": "julianc193@nycstudents.net",
+      "Password": "Ak6h33jk",
+      "ID": 21
+    }
+  }
+}
